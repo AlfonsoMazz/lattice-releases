@@ -1,0 +1,10 @@
+[
+  {
+    "version": "2.1.5",
+    "releaseNotes": "<!--LANG:en-->\nLattice 2.1.5 brings Windows updates from the Lattice GitHub release channel. What's New now shows Lattice release notes, including when you are offline.\n<!--LANG:zh-CN-->\nLattice 2.1.5 通过 Lattice 的 GitHub 发布渠道提供 Windows 更新。“版本更新”现在仅显示 Lattice 的发行说明，离线时也可查看。\n<!--LANG:END-->"
+  },
+  {
+    "version": "2.1.4",
+    "releaseNotes": "<!--LANG:en-->\nLattice 2.1.4 protects patient profiles during Windows installation and removal and makes a verified backup before upgrading ownerless medical alerts. The operations manual covers agents, chat, Medical Hub and releases.\n<!--LANG:zh-CN-->\nLattice 2.1.4 在 Windows 安装与卸载期间保护患者数据，并在升级未关联所有者的旧版医疗提醒之前创建并验证备份。操作手册介绍了智能体、聊天、医疗中心和版本发布。\n<!--LANG:END-->"
+  }
+]
