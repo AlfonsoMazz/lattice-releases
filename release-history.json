@@ -1,5 +1,29 @@
 [
   {
+    "version": "2.1.11",
+    "releaseNotes": "<!--LANG:en-->\nLattice 2.1.11 lets you right-click inside a screenshot selection to copy it to the clipboard and close the capture.\n<!--LANG:zh-CN-->\nLattice 2.1.11 支持在截图选区内点击鼠标右键，将截图复制到剪贴板并关闭截图窗口。\n<!--LANG:END-->"
+  },
+  {
+    "version": "2.1.10",
+    "releaseNotes": "<!--LANG:en-->\nLattice 2.1.10 adds a visible Copy button for screenshots and a Windows installer option to update your existing installation in place.\n<!--LANG:zh-CN-->\nLattice 2.1.10 在截图工具栏加入了清晰可见的复制按钮，并在 Windows 安装程序中提供原位更新选项。\n<!--LANG:END-->"
+  },
+  {
+    "version": "2.1.9",
+    "releaseNotes": "<!--LANG:en-->\nLattice 2.1.9 gives the amber cubes a transparent background and refreshes the Windows shortcuts to show the new icon.\n<!--LANG:zh-CN-->\nLattice 2.1.9 为琥珀色立方块图标换上了透明背景，并刷新 Windows 快捷方式以显示新图标。\n<!--LANG:END-->"
+  },
+  {
+    "version": "2.1.8",
+    "releaseNotes": "<!--LANG:en-->\nLattice 2.1.8 brings a new amber app icon and fixes an issue that closed the avatar picker when searching for agent icons.\n<!--LANG:zh-CN-->\nLattice 2.1.8 更新了琥珀色应用图标，并修复了搜索智能体图标时头像选择器意外关闭的问题。\n<!--LANG:END-->"
+  },
+  {
+    "version": "2.1.7",
+    "releaseNotes": "<!--LANG:en-->\nLattice 2.1.7 fixes DeepSeek Harness startup in CodeMate and lets you retry setup to upgrade an incompatible Node runtime.\n<!--LANG:zh-CN-->\nLattice 2.1.7 修复了 CodeMate 中 DeepSeek Harness 的启动问题，并支持通过重试安装来升级不兼容的 Node 运行时。\n<!--LANG:END-->"
+  },
+  {
+    "version": "2.1.6",
+    "releaseNotes": "<!--LANG:en-->\nLattice 2.1.6 adds a branded Home page, renames Work to Agent, and shows a persistent install prompt when an automatic update is ready.\n<!--LANG:zh-CN-->\nLattice 2.1.6 推出全新首页，将“工作”更名为“智能体”，并在自动更新下载完成后持续显示安装提示。\n<!--LANG:END-->"
+  },
+  {
     "version": "2.1.5",
     "releaseNotes": "<!--LANG:en-->\nLattice 2.1.5 brings Windows updates from the Lattice GitHub release channel. What's New now shows Lattice release notes, including when you are offline.\n<!--LANG:zh-CN-->\nLattice 2.1.5 通过 Lattice 的 GitHub 发布渠道提供 Windows 更新。“版本更新”现在仅显示 Lattice 的发行说明，离线时也可查看。\n<!--LANG:END-->"
   },
